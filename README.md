@@ -9,7 +9,7 @@ Definition of autonomous
 
 a : having the right or power of self-government an autonomous territory
 
-b : undertaken or carried on without outside control : self-contained an autonomous school system
+b : undertaken or carried on without outside control : self-contained an autonomous fish school
 
 2 
 
