@@ -1,2 +1,3 @@
 # seriously
-A repo for fun
+
+Autonomous zone
