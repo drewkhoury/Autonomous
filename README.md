@@ -16,3 +16,4 @@ b : undertaken or carried on without outside control : self-contained an autonom
 a : existing or capable of existing independently an autonomous zooid
 
 b : responding, reacting, or developing independently of the whole an autonomous growth
+
